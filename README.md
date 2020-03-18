@@ -5,5 +5,5 @@ And it also be able to read the generated csv file and print its content to the 
 By Nico Mingkun Xia: mingkun.xia@mail.mcgill.ca
 
 # Download
-Clone the CSVFileConverter package and run main.c
+Clone the CSVFileConverter package and run "run.sh" in terminal
 
